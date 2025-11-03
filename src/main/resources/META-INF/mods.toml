@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="cursedinfuserbycage"
+version="1.0.0"
+displayName="Cursed Infuser By Cage"
+description="Allows Cursed Infuser to work on top of Cursed Cages with soul energy, consuming soul energy from the cage to power recipes."
+authors="CursedInfuserByCage"
+logoFile="logo.png"
+
+[[dependencies.cursedinfuserbycage]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cursedinfuserbycage]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cursedinfuserbycage]]
+    modId="goety"
+    mandatory=true
+    versionRange="[2.5,)"
+    ordering="AFTER"
+    side="BOTH"
+
