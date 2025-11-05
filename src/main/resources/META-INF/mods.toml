@@ -7,7 +7,7 @@ modId="cursedinfuserbycage"
 version="1.0.1"
 displayName="Cursed Infuser By Cage"
 description="Allows Cursed Infuser to work on top of Cursed Cages with soul energy, consuming soul energy from the cage to power recipes."
-authors="CursedInfuserByCage"
+authors="AmicBeam"
 logoFile="logo.png"
 
 [[dependencies.cursedinfuserbycage]]
